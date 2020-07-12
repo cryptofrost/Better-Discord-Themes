@@ -1,0 +1,20 @@
+//META{"name":"Ichigo Theme","description":"An Darling in the Franxx Ichigo Discord Theme!","author":"CRYPTO","version":"1.2"}*//
+
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url("https://codedotspectra.github.io/themes/core/hljs.css");
+
+:root {
+  --themeColor1: #334454;
+  --themeColor2: #334454;
+  --customFont: 'Open sans', sans-serif;
+  --homeImage: url('https://cdn.discordapp.com/attachments/536501170353602627/731812250414874644/circle-cropped_2.png');
+  --homeImageSize: cover;
+  --backgroundColor: transparent;
+  --backgroundImage: url('https://images.alphacoders.com/910/910135.jpg');
+  --backgroundPosition: center;
+  --backgroundSize: cover;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+
+}
